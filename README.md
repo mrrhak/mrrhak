@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on Flutter and NestJS
 - 🌱 I’m currently learning Flutter, Firebase, MongoDB, NestJS, NextJS
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter, Firebase, NestJS
 - 📫 How to reach me: [Facebook](https://web.facebook.com/mrrhak168), [Twitter](https://twitter.com/mrrhak168)
 - ⚡ Learn more about me from my [official page](https://mrrhak.com)

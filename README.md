@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Kimhak</h1>
-<h2 align="center">Software Developer</h2>
-<p align="center">I have rich experience in flutter mobile design & building and customization.</p>
+<h2 align="center">Full Stack Developer</h2>
+<p align="center">I have rich experience in flutter and nestjs with graphql and rest api.</p>
 
 <p align="center">
 <strong>Dart | Javascript | Flutter | Firebase | NodeJS | NestJS | NextJS</strong>

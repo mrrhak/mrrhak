@@ -3,7 +3,7 @@
 <p align="center">I have rich experience in flutter and nestjs with graphql and rest api.</p>
 
 <p align="center">
-<strong>Dart | Javascript | Flutter | Firebase | NodeJS | NestJS | NextJS</strong>
+<strong>Dart | Javascript | C# | Flutter | Firebase | NodeJS | NestJS | NextJS | ASP.Net</strong>
 </p>
 
 ---

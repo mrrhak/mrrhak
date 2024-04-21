@@ -52,21 +52,21 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 ```tsx
 {
-  Backend: ['Express Typescript/Javascript', 'Nodejs', 'NestJs','Go-lang','Java'],
-  DB Management: ['MongoDB', 'PSQL','Redis', 'ClickHouse', 'MySql'],
-  Frontend: ['React Typescript/Javascript', 'NextJs','Umijs','Typescript','JSON'],
-  State Management: ['Redux Saga','Context','Apollo GraphQl', 'Recoil'],
-  Frontend UI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
-  Tools Build Library: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
+  Backend: ['Express Typescript/Javascript', 'Nodejs', 'NestJs','ASP.NET'],
+  DB Management: ['MongoDB', 'Postgres', 'Firebase', 'SQL Server','Redis', 'MySql'],
+  Frontend: ['React Typescript/Javascript', 'NextJs','ASP.NET', 'Flutter'],
+  State Management: ['Bloc','Context','Apollo GraphQl'],
+  Frontend UI: ['Html5', 'Vuexy', 'DevExpress', 'Bootstrap 5', 'Tailwind Css', 'Material UI', 'Css3', 'Sass'],
+  Tools Build Library: ['WebPack', 'Gulp', 'Npm', 'Yarn', 'Bun'],
   Tools Test: ['Jest'],
-  Tools Design: ['Adobe XD'],
-  Common Library: ['Axios', 'hook useRequest', 'EChartJs'],
+  Tools Design: ['Adobe XD', 'Figma'],
+  Common Library: ['Axios', 'hook useRequest', ''],
   Tools Lint: ['Eslint' , 'Pretty' , 'StyleLint'],
   Tools Dev: ['vs code', 'postman','graphl playground', 'jira' , 'Trello'],
-  Cloud: ['Vercel','Heroku', 'Netlify','Github Page', 'Digital Ocean', 'AWS'],
-  Basic Languages: ['Java'],
-  My OpenSource Project: ['Template Starter','Npm Library']
-  Others: ['RabbitMQ','MQTT','Nats.io', 'Socket.io','websocket' ,'Kafka', 'Tile38', 'Graphql', 'Docker', 'gRPC']
+  Cloud: ['Vercel','AWS', 'Digital Ocean', 'Google Cloud','Github Page'],
+  Basic Languages: ['Dart', 'Javascript', 'Typescript', 'C#'],
+  My OpenSource Project: ['Icons Launcher','S3 File Provider'],
+  Others: ['RabbitMQ','MQTT', 'Socket.io','Websocket' ,'Kafka', 'Graphql', 'Docker', 'gRPC']
 }
 ```
 
@@ -86,7 +86,7 @@ I always keep up to date, challenge with new technologies and using Agile method
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was build various projects/microservices using <b>Flutter</b> for mobile app and <b>NestJS</b> for microservices backend GraphQL API.
   
-  <b>Skills & Tools: </b>Flutter, NestJs, RabbitMQ, MongoDB, Redis, Websocket and Docker
+  <b>Skills & Tools: </b>Flutter, NestJs, RabbitMQ, MQTT, MongoDB, Redis, Websocket and Docker
   
 - <b> <a target="_blank" href="https://www.vtech.one" target="_blank" > Green Life:
   </a></b> <br>

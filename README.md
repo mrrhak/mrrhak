@@ -100,10 +100,10 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 
 <h3 align="center">Stats from my public work</h3>
-<div align="center" style="margin-bottom: 16px;">
+<div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrrhak&theme=tokyonight" alt="mrrhak" />
 </div>
-
+<br>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrhak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrrhak" height=195 style="margin-right: 10px; margin-bottom: 16px;"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrrhak&show_icons=true&locale=en&theme=tokyonight" alt="mrrhak" style="margin-bottom: 16px;"/>

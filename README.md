@@ -88,7 +88,7 @@ I always keep up to date, challenge with new technologies and using Agile method
   
   <b>Skills & Tools: </b>Flutter, NestJs, RabbitMQ, MQTT, MongoDB, Redis, Websocket and Docker
   
-- <b> <a target="_blank" href="https://www.vtech.one" target="_blank" > Green Life:
+- <b> <a target="_blank" href="#" target="_blank" > Green Life:
   </a></b> <br>
   <b>Graphic Designer</b> - 2017 - 2018
 

@@ -13,6 +13,10 @@
 <p align="center">
 ⚡ More info visit my <a href="https://mrrhak.com">official page</a>.
 </p>
+<div align="center">
+
+![Profile View](https://komarev.com/ghpvc/?username=mrrhak&style=flat&color=brightgreen)
+</div>
 
 ---
 

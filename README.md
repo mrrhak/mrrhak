@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=400&height=38&lines=Hi+👋,+I'm+Kimhak;Welcome+to+my+Profile!)](https://mrrhak.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=400&height=42&lines=Hi+👋,+I'm+Kimhak;Welcome+to+my+Profile!)](https://mrrhak.com)
 </div>
 
 ---

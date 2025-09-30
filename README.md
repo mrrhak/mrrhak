@@ -34,7 +34,7 @@
 [![Phone](https://img.shields.io/badge/Phone-+855_964737363-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855964737363)
 [![Address](https://img.shields.io/badge/Address-105K,_Kbal_Domrey,_Kakab,_Porsenchey,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Kimhak Long</b>. I have 3+ years experiences with front-end and back-end development and achieved more than 5+ various services/application projects using <b>Flutter, NestJS, NextJS, ASP.NET with language Dart, Javascript, Typescript and C#</b>.
+Hi There👋, My name is <b>Kimhak Long</b>. I have 3+ years experiences with mobile app development and 5+ years front-end and back-end development and achieved more than 8+ various services/application projects using <b>Flutter, NestJS, NextJS, ASP.NET, Laravel with language Dart, Java, Javascript, Typescript, C# and PHP</b>.
 
 I always keep up to date, challenge with new technologies and using Agile methodology in development project(Jira). I have also contributed in open-source on GitHub, Pub.dev, NPM and Nuget. I like to build flutter, nextjs, nestjs and asp.net core to make development process fast as much as possible. Moreover, I love building my own component libraries for reusable across projects. My skill is set up <b>front-end/back-end architecture which are powerful with popular framework</b> to ensure project started up with clean structure by using Strong Type language with null safety and test cover with unit test, integration test and UI test to ensure all functionalities working properly and the project can progress with predicable time, maintainable and scalable. For consistency and code error handling, I have using tools such as Eslint, Pretty, StyleLint, SonarLint and Webpack with code minify and splitting to optimize bundle size to care about the performance of applications and improve user experiences with SEO(Search Engine Optimization) (SSR NextJS).
 
@@ -83,11 +83,19 @@ I always keep up to date, challenge with new technologies and using Agile method
 
 - <b> <a target="_blank" href="https://jtrustroyal.com/" target="_blank" > J Trust Royal Bank:
   </a></b> <br>
-  <b>Senior Web App Developer</b> - 2022 - Present
+  <b>Mobile Application Developer</b> - 2024 - Present
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working at JTrust Royal Bank located in Phnom Penh to build various projects/services using <b>ASP.NET, NodeJs and Flutter</b> for internal usage.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working at JTrust Royal Bank located in Phnom Penh to build various cross-platform mobile application using <b>Flutter</b> for end customer usage.
 
-  <b>Skills & Tools:</b> ASP.NET, C#, NodeJs, Flutter, Docker, SQL Server, Postgres, Jira, AWS and other tools
+  <b>Skills & Tools:</b>Flutter, iOS, Anroid, Bloc, Melos, Security and other tools
+
+- <b> <a target="_blank" href="https://jtrustroyal.com/" target="_blank" > J Trust Royal Bank:
+  </a></b> <br>
+  <b>Web Application Developer</b> - 2022 - 2024
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was build various full-stack projects/services API using <b>ASP.NET and .Net Core</b> for internal usage.
+
+  <b>Skills & Tools:</b> ASP.NET, C#, NodeJs, Docker, SQL Server, Postgres, REST API, GraphQL, Jira, AWS and other tools
 
 - <b> <a target="_blank" href="#" target="_blank" > Advice Tech Solution:
   </a></b> <br>

@@ -18,6 +18,12 @@
 ![Profile View](https://komarev.com/ghpvc/?username=mrrhak&style=flat&color=brightgreen)
 </div>
 
+<div align="center">
+<img align="center" alt="GIF" src="code.gif" width="500" height="320" />
+</div>
+
+
+
 ---
 
 <a target="_blank" href="https://github.com/sinakit"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/42771980"></a>
@@ -28,11 +34,10 @@
 
 ## Kimhak Long / ​​ឡុង គីមហាក់
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/kimhak-long-370818295/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/mrrhak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?color=14171A&labelColor=212121&&logoColor=ffcc80)](https://www.linkedin.com/in/kimhak-long-370818295/)
 [![Gmail](https://img.shields.io/badge/%20-longkimhak.kh@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:longkimhak.kh@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Phone](https://img.shields.io/badge/Phone-+855_964737363-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855964737363)
-[![Address](https://img.shields.io/badge/Address-105K,_Kbal_Domrey,_Kakab,_Porsenchey,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+[![Address](https://img.shields.io/badge/Address-Phnom_Penh,_Cambodia-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 Hi There👋, My name is <b>Kimhak Long</b>. I have 3+ years experiences with mobile app development and 5+ years front-end and back-end development and achieved more than 8+ various services/application projects using <b>Flutter, NestJS, NextJS, ASP.NET, Laravel with language Dart, Java, Javascript, Typescript, C# and PHP</b>.
 
